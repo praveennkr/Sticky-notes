@@ -1,7 +1,5 @@
 # Sticky note in React.js
 
-<div align="center">
-	<h2>Sticky note</h2>
-</div>
+<h2>Sticky note</h2>
 
 >[Live Preview]()
