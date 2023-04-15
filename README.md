@@ -2,4 +2,4 @@
 
 <h2>Sticky note</h2>
 
->[Live Preview](https://sticky-notes-git-main-praveennkr.vercel.app/)
+>Click for [Live Preview](https://sticky-notes-git-main-praveennkr.vercel.app/)
